@@ -48,4 +48,4 @@ plt.show()
 ```
 **Resultado:**
 
-![Test espectral dos dimensiones](test_espectral-3d.png){ width=250px }
+![Test espectral tres dimensiones](test_espectral-3d.png){ width=250px }
