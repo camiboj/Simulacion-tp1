@@ -1,3 +1,4 @@
+## Ejercicio 9
 **Realizar un test Chi2 a la distribución empírica implementada en el Ej 6, y analizar el resultado indicando si la distribución puede o no ser aceptada. Considerar un nivel de significación del 1%. En caso que la distribución de probabilidades no pase el test con un nivel de significación del 1% volver a realizarlo con un nivel de significación del 5%.**
 
 En primer lugar, generamos una muestra a partir de la distribucción definida en el ejercicio 6.
