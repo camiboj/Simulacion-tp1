@@ -25,6 +25,7 @@ plt.plot(uniform_random_sample_x, uniform_random_sample_y, 'bo', markersize=0.5)
 plt.show()
 ```
 **Resultado:**
+
 ![Test espectral dos dimensiones](test_espectral-2d.png){ width=250px }
 
 Para realizar un test espectral de **3 dimensiones** del generador congruencial lineal implementado en el ejercicio 1 seguiremos una serie de pasos:
@@ -46,4 +47,5 @@ ax.scatter(uniform_random_sample_x, uniform_random_sample_y, uniform_random_samp
 plt.show()
 ```
 **Resultado:**
+
 ![Test espectral dos dimensiones](test_espectral-3d.png){ width=250px }
